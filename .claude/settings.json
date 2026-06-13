@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run *)",
+      "Bash(echo \"PID: $!\")",
+      "Read(//tmp/**)",
+      "Bash(awk '{print $5, $9}')",
+      "Bash(file /home/alaaeddin/Bureau/3Dprint/site/src/assets/wetransfer_catalogue-images-wall-printer-jpg_2026-05-02_2349/*.webp)"
+    ]
+  }
+}
